@@ -1,0 +1,26 @@
+@media screen and (max-width:840px){
+    #messageInp{
+        margin-left: 20px;
+        font-size: 20px;
+    }
+    .container{
+        width: 90%;
+    }
+    .heading{
+        width: 91vw;
+    }
+    .left{
+        font-size: 20px;
+        height: auto;
+    }
+    .right{
+        font-size: 20px;
+        height: auto;
+    }
+    #float{
+        width:90vw
+    }
+    .btn{
+        width: 26%;
+    }
+}
